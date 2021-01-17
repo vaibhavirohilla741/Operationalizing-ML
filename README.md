@@ -89,4 +89,13 @@ The main steps of the project are
 * Collecting more data can definietly help in improving accuracy.
 * We can try tesing the batch data in a shcedule and see the performance.
 
-
+## ❤️ Thanks to our awesome contributors ✨✨.
+<table>
+  <tr>
+    <td>
+        <a href="https://github.com/vaibhavirohilla741/Operationalizing-ML/graphs/contributors">
+            <img src="https://contrib.rocks/image?repo=vaibhavirohilla741/Operationalizing-ML" />
+        </a>
+    </td>
+   </tr>
+</table>
