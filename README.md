@@ -77,7 +77,8 @@ The main steps of the project are
   
 ![alt text](https://github.com/vaibhavirohilla741/Operationalizing-ML/blob/main/Screenshots/Run%20Complete.png "Logo Title Text 1")
   
-  
+ ## How to Contribute ? ✨
+ Check out our [contributing guidlines](https://github.com/vaibhavirohilla741/Operationalizing-ML/blob/main/CONTRIBUTING.md)
         
 
 
