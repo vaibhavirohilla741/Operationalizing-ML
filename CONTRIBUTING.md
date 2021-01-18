@@ -69,7 +69,7 @@ git push origin <brach-name>
 
 **8.** Create a [PR](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) !
 
-**9.** **Congratulations!** Sit and relax, you've made your contribution to [Hoaxify](https://github.com/vaibhavirohilla741/Operationalizing-ML) project.
+**9.** **Congratulations!** Sit and relax, you've made your contribution to [Operationalizing-ML](https://github.com/vaibhavirohilla741/Operationalizing-ML) project.
 
 
 ***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
