@@ -79,8 +79,8 @@ Check out our <a href="https://github.com/vaibhavirohilla741/Operationalizing-ML
 ## See project in action <a href="https://youtu.be/GXZqAYFzaJ8">HERE<a>:framed_picture:
 
 ## :eight_spoked_asterisk:Standout Suggestions:eight_spoked_asterisk:
-* Collecting more data can definietly help in improving accuracy.
-* We can try tesing the batch data in a shcedule and see the performance.
+* Collecting more data can definitely help in improving accuracy.
+* We can try testing the batch data in a schedule and see the performance.
 
 ## ❤️ Thanks to our awesome contributors:technologist:✨.
 <table>
