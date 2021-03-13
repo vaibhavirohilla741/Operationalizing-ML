@@ -1,4 +1,4 @@
-
+﻿
 ## 🤝***First time contributing? We will help you out.*** 👍
 
 ![GitHub custom open for collaboration](https://img.shields.io/badge/Open%20For-Collaboration-brightgreen?style=for-the-badge)
@@ -73,6 +73,31 @@ git push origin <brach-name>
 
 
 ***:trophy: After this, project leaders and mentors will review the changes and will merge your PR if they are found good, otherwise we will suggest the required changes.***
+
+## ADD A REMOTE (UPSTREAM) TO ORIGINAL PROJECT REPOSITORY 
+***
+Remote means the remote location of project on Github. By cloning, we have a remote called origin which points to your forked repository. Now we will add a remote to the original repository from where we had forked.
+
+```$ cd <your-forked-project-folder>```
+```$ git remote add upstream https://github.com/<author-account-username>/<project>.git```
+You will see the benefits of adding remote later.
+
+## SYNCHRONIZING YOUR FORK -
+***
+Open Source projects have a number of contributors who can push code anytime. So it is necessary to make your forked copy equal with the original repository. The remote added above called Upstream helps in this.
+
+```$ git checkout master```
+```$ git fetch upstream```
+```$ git merge upstream/master```
+```$ git push origin master```
+The last command pushes the latest code to your forked repository on Github. The origin is the remote pointing to your forked repository on github.
+
+### SQUASHING YOUR COMMITS-
+***
+You have completed the feature, but you have made a number of commits which make less sense. You should squash your commits to make good commits.
+
+```$ git rebase -i HEAD~5```
+This will open an editor which will allow you to squash the commits.
 
 ## Style Guides for Git Commit Messages:memo:
 
