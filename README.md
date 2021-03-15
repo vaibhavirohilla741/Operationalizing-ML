@@ -34,7 +34,7 @@ An architectual diagram of the project and introduction of each step.
         
    # :pushpin:AutoML Run<br>
     
-   - We have to run an AutoML using the same regitered Dataset.
+   - We have to run an AutoML using the same registered Dataset.
    - We have to mention the same compute instance which we build earlier.
    ![alt text](https://github.com/vaibhavirohilla741/Operationalizing-ML/blob/main/Screenshots/AutoML%20RUN.png "Logo Title Text 1")
     
