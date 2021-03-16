@@ -1,3 +1,9 @@
+<!--
+Thank you for sending the PR! We appreciate you spending the time to work on these changes.
+Help us understand your motivation by explaining why you decided to make this change.
+Happy Contributing!
+-->
+
 ## Related Issuse or bug
   - Info about Issue or bug
 
@@ -5,8 +11,6 @@ Fixes: #[issue number that will be closed through this PR]
 
 #### Describe the changes you've made
 A clear and concise description of what you have done to successfully close your assigned issue. Any new files? or anything you feel to let us know!
-
-
 
 
 
@@ -45,11 +49,8 @@ Example how to mark a checkbox :-
 - [ ] New and existing unit tests pass locally with my changes.
 - [ ] Any dependent changes have been merged and published in downstream modules.
 
-## Screenshots
+## Screenshots (if applicable)
 
- Original           | Updated
- :--------------------: |:--------------------:
- **original screenshot**  | <b>updated screenshot </b> |
  
  
  
