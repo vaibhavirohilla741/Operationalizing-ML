@@ -95,3 +95,6 @@ Check out our <a href="https://github.com/vaibhavirohilla741/Operationalizing-ML
     </td>
    </tr>
 </table>
+
+## LICENSE
+This project is licensed under the [MIT LICENSE](LICENSE)
