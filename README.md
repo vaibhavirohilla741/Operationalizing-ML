@@ -63,9 +63,12 @@ The last and the most vital step is to make the model publically available. This
     
    # :pushpin:Best Model
    - After running the AutoML we need to collect the best model from various diffrent models.<br>
-        - Here we got voting ensemble model which chooses voting model to choose the best of several runs. The base model is XGBOOST with Maxabs scaling and accuracy of 91%                               .
+        - Here we got voting ensemble model which chooses voting model to choose the best of several runs. The base model is XGBOOST with Maxabs scaling and accuracy of 91%
+        - After the experiment run completes, a summary of all the models and their metrics are shown, including explanations. Below images show the explaination of the best performing model.
         
    ![alt text](https://github.com/vaibhavirohilla741/Operationalizing-ML/blob/main/Screenshots/Best%20Model.png "Logo Title Text 1")
+   ![gssoc1](https://user-images.githubusercontent.com/61888364/112888309-d03b5700-90f1-11eb-8d1a-63aa928f878b.png)
+![gssoc2](https://user-images.githubusercontent.com/61888364/112888314-d2051a80-90f1-11eb-8a50-ad9ea5eb67b6.png)
    
    # :pushpin:Endpoint Deployment
    
