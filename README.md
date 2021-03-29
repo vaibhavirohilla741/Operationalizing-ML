@@ -84,6 +84,9 @@ Check out our <a href="https://github.com/vaibhavirohilla741/Operationalizing-ML
 ## :eight_spoked_asterisk:Standout Suggestions:eight_spoked_asterisk:
 * Collecting more data can definitely help in improving accuracy.
 * We can try testing the batch data in a schedule and see the performance.
+* We can try to implement various new algorithms along with running the AutoML Experiment for a longer time period.
+* We can try new values for number of nodes, concurrency etc.
+* We can use GPU's instead of CPU's to improve the performance. Since CPU's might reduce the costs but in terms of performance and accuracy GPU's outperform CPU's.
 
 ## ❤️ Thanks to our awesome contributors:technologist:✨.
 <table>
