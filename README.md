@@ -78,6 +78,11 @@ The last and the most vital step is to make the model publically available. This
    # :pushpin:Application Insights
    
   - Once the model is deployed we need to enable the logs setting the appinsights = True in the Experiment logging section by adding the experiment name.
+  - To enable Application Insights, we run the logs.py file.
+    ![gssoc3](https://user-images.githubusercontent.com/61888364/113008907-18f81c00-9195-11eb-8854-60466b896638.png)
+    ![gssoc4](https://user-images.githubusercontent.com/61888364/113008914-1b5a7600-9195-11eb-93e3-a82ea3006f83.png)
+
+
   - Once we have enabled the logging we should see the status in application insights saying the failed requests, timed out requests etc.
    
    ![alt text](https://github.com/vaibhavirohilla741/Operationalizing-ML/blob/main/Screenshots/Deploy.png "Logo Title Text 1")
