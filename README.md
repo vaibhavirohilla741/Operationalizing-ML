@@ -20,6 +20,28 @@ The main steps of the project are:-
 An architectual diagram of the project and introduction of each step.
 ![alt text](https://github.com/vaibhavirohilla741/Operationalizing-ML/blob/main/Screenshots/flowchart.png "Logo Title Text 1")
 
+
+## Authentication
+It is the vital step to ensure secure and authentic access. Authentication is required for the creation of the Service Principal account and associate it with specific workspace.
+
+## Automated ML Experiment
+We create the new Automated ML Run Experiment and then upload the Bank Marketing dataset. We run the experiment configuring a new compute cluster, using Classification and ensure that the best model explaination is enabled.
+
+## Deploy the Best Model
+After the completion of the AutoML Run, we will get our best model. We will then deploy that model using the **Azure Container Instance(ACI)** and enable **Authentication** to prevent unauthorized access.
+
+## Enable Logging
+After the deployment, we will enable the Application Insights from the deployed model. This will help us produce logging output with the python sdk. It plays a vital role to debug problems in production environments.
+
+## Swagger Documentation
+Swagger helps us build, document and consume RESTful web services. It also explains what type of requests API can consume like **POST** and **GET**.
+
+## Consume Model Endpoints
+We must consume the deployed service to retrieve the data using **HTTP request**. It will help us in validation of data by identifying if anything is having any problem or is incorrect.
+
+## Create and Publish Pipelines
+The last and the most vital step is to make the model publically available. This is done by creating a pipeline and then publishing it. It is synonymous to Automation as the pipeline create ways for other services to interact with it using HTTP endpoint.
+
 ## Key Steps:tickets:
    # :pushpin:Register the Dataset
    - We have to first register the dataset from the local files.
@@ -41,9 +63,12 @@ An architectual diagram of the project and introduction of each step.
     
    # :pushpin:Best Model
    - After running the AutoML we need to collect the best model from various diffrent models.<br>
-        - Here we got voting ensemble model which chooses voting model to choose the best of several runs. The base model is XGBOOST with Maxabs scaling and accuracy of 91%                               .
+        - Here we got voting ensemble model which chooses voting model to choose the best of several runs. The base model is XGBOOST with Maxabs scaling and accuracy of 91%
+        - After the experiment run completes, a summary of all the models and their metrics are shown, including explanations. Below images show the explaination of the best performing model.
         
    ![alt text](https://github.com/vaibhavirohilla741/Operationalizing-ML/blob/main/Screenshots/Best%20Model.png "Logo Title Text 1")
+   ![gssoc1](https://user-images.githubusercontent.com/61888364/112888309-d03b5700-90f1-11eb-8d1a-63aa928f878b.png)
+![gssoc2](https://user-images.githubusercontent.com/61888364/112888314-d2051a80-90f1-11eb-8a50-ad9ea5eb67b6.png)
    
    # :pushpin:Endpoint Deployment
    
