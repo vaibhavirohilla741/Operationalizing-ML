@@ -94,8 +94,9 @@ The last and the most vital step is to make the model publically available. This
   - After that we need to launch a local web server using serve script and lauch swagger using docker container by running swagger.sh
   
   - Here we are testing both using endpoint.py and Swagger
+ ![gssoc5](https://user-images.githubusercontent.com/61888364/113027508-cc6a0c00-91a7-11eb-88e0-560df3f6c3a6.png)
  ![alt text](https://github.com/vaibhavirohilla741/Operationalizing-ML/blob/main/Screenshots/Swagger.png "Logo Title Text 1")
-  
+  ![gssoc6](https://user-images.githubusercontent.com/61888364/113027514-cecc6600-91a7-11eb-8488-bc4b3458a75d.png)
   
   # :pushpin:Creating and Publishing pipeline 
   We can schedule the pipelines using schdeule recurrence parameter reducing the manual efforts.
