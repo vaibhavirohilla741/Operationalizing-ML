@@ -1,6 +1,13 @@
 ![](assets/banner.gif)
 # Operationalizing a Machine Learning Model In Azure:rocket:
 
+![Issues](https://img.shields.io/github/issues/vaibhavirohilla741/Operationalizing-ML)
+![Pull Requests](https://img.shields.io/github/issues-pr/vaibhavirohilla741/Operationalizing-ML)
+![Forks](https://img.shields.io/github/forks/vaibhavirohilla741/Operationalizing-ML)
+![Stars](https://img.shields.io/github/stars/vaibhavirohilla741/Operationalizing-ML)
+[![License](https://img.shields.io/github/license/vaibhavirohilla741/Operationalizing-ML)](https://github.com/vaibhavirohilla741/Operationalizing-ML/blob/main/LICENSE)
+![](https://img.shields.io/github/repo-size/vaibhavirohilla741/Operationalizing-ML.svg?label=Repo%20size&style=flat-square)&nbsp;
+
 The main objective of this project is to <strong>build a machine learning model using Azure Container Services</strong>.We have been provided with the banking dataset.
 The main steps of the project are:-
 
@@ -11,7 +18,7 @@ The main steps of the project are:-
     5) Swagger Documentation
     6) Consume model endpoints
     7) Create and publish a pipeline
-    9) Documentation
+    8) Documentation
 
 ## Tech-Stacks:
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /> <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="Shell Script" src="https://img.shields.io/badge/shell%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>  <img alt="Azure" src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>  <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/> <img alt="Swagger" src="https://img.shields.io/badge/Swaggeer%20-%23107C10.svg?&style=for-the-badge&logo=Swagger&logoColor=white"/>
